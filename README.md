@@ -1,3 +1,8 @@
+
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=500&color=3F1A16&center=true&vCenter=true&width=700&lines=Hi!+I'm+Ronan+Gabriel;Data+Scientist+of+AI+and+ML!;BI+%26+Analytics+Specialist"
+  alt="Typing animation"
+/>
 </head>
 <body>
 

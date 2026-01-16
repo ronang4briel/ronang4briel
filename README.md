@@ -91,7 +91,7 @@
 
   <footer>
     <p>
-      © 2025 Ronan Gabriel · Data Analytics & BI Specialist
+      © 2026 Ronan Gabriel · Data Analytics & BI Specialist
     </p>
   </footer>
 
